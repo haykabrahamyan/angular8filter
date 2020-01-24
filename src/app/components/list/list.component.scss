@@ -1,0 +1,13 @@
+.header {
+    width: 100vw;
+    height: 50px;
+    line-height: 50px;
+}
+
+.list {
+    width: 100vw;
+    max-width: 500px;
+    margin: 0 auto;
+    overflow-y: scroll;
+    height: calc(100vh - 50px);
+}
